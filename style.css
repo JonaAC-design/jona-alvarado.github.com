@@ -10,7 +10,7 @@ yellow - #F6D55C
 */
 
 body {
-  background-color: #3CAEA3;
+  background-color: #5dc1b9;
 }
 
 main {
@@ -33,8 +33,8 @@ h1 {
 
 .avatar-img {
   border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border: 1px solid grey;
 }
 
